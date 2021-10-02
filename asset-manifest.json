@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bakend1final/static/css/main.c0facf03.chunk.css",
+    "main.js": "/bakend1final/static/js/main.0fc3e15f.chunk.js",
+    "main.js.map": "/bakend1final/static/js/main.0fc3e15f.chunk.js.map",
+    "runtime-main.js": "/bakend1final/static/js/runtime-main.b77fded5.js",
+    "runtime-main.js.map": "/bakend1final/static/js/runtime-main.b77fded5.js.map",
+    "static/css/2.f2512455.chunk.css": "/bakend1final/static/css/2.f2512455.chunk.css",
+    "static/js/2.5dfb96dc.chunk.js": "/bakend1final/static/js/2.5dfb96dc.chunk.js",
+    "static/js/2.5dfb96dc.chunk.js.map": "/bakend1final/static/js/2.5dfb96dc.chunk.js.map",
+    "index.html": "/bakend1final/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/bakend1final/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.c0facf03.chunk.css.map": "/bakend1final/static/css/main.c0facf03.chunk.css.map",
+    "static/js/2.5dfb96dc.chunk.js.LICENSE.txt": "/bakend1final/static/js/2.5dfb96dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b77fded5.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.5dfb96dc.chunk.js",
+    "static/css/main.c0facf03.chunk.css",
+    "static/js/main.0fc3e15f.chunk.js"
+  ]
+}
